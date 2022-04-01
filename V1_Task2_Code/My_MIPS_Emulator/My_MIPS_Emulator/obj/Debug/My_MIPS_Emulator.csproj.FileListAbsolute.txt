@@ -1,0 +1,27 @@
+C:\Users\abdel\source\repos\My_MIPS_Emulator\My_MIPS_Emulator\bin\Debug\My_MIPS_Emulator.exe.config
+C:\Users\abdel\source\repos\My_MIPS_Emulator\My_MIPS_Emulator\bin\Debug\My_MIPS_Emulator.exe
+C:\Users\abdel\source\repos\My_MIPS_Emulator\My_MIPS_Emulator\bin\Debug\My_MIPS_Emulator.pdb
+C:\Users\abdel\source\repos\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.csprojAssemblyReference.cache
+C:\Users\abdel\source\repos\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.Form1.resources
+C:\Users\abdel\source\repos\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.Properties.Resources.resources
+C:\Users\abdel\source\repos\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.csproj.GenerateResource.cache
+C:\Users\abdel\source\repos\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.exe
+C:\Users\abdel\source\repos\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.pdb
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\My_MIPS_Emulator\My_MIPS_Emulator\bin\Debug\My_MIPS_Emulator.exe.config
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\My_MIPS_Emulator\My_MIPS_Emulator\bin\Debug\My_MIPS_Emulator.exe
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\My_MIPS_Emulator\My_MIPS_Emulator\bin\Debug\My_MIPS_Emulator.pdb
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.csprojAssemblyReference.cache
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.Form1.resources
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.Properties.Resources.resources
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.csproj.GenerateResource.cache
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.exe
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.pdb
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\V1_Task2_Code\My_MIPS_Emulator\My_MIPS_Emulator\bin\Debug\My_MIPS_Emulator.exe.config
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\V1_Task2_Code\My_MIPS_Emulator\My_MIPS_Emulator\bin\Debug\My_MIPS_Emulator.exe
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\V1_Task2_Code\My_MIPS_Emulator\My_MIPS_Emulator\bin\Debug\My_MIPS_Emulator.pdb
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\V1_Task2_Code\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.csprojAssemblyReference.cache
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\V1_Task2_Code\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.Form1.resources
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\V1_Task2_Code\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.Properties.Resources.resources
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\V1_Task2_Code\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.csproj.GenerateResource.cache
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\V1_Task2_Code\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.exe
+C:\Users\abdel\Desktop\Final Evaluation resolts\Archi\V1_Task2_Code\My_MIPS_Emulator\My_MIPS_Emulator\obj\Debug\My_MIPS_Emulator.pdb
